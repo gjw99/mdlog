@@ -8,7 +8,7 @@ Markdown on `console.log`
 
 ## What Is?
 
-```javascript
+```
 require('mdlog/override');
 
 console.log([
